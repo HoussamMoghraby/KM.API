@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\bin\Debug\net6.0\MyApp.Business.deps.json
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\bin\Debug\net6.0\MyApp.Business.dll
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\bin\Debug\net6.0\ref\MyApp.Business.dll
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\bin\Debug\net6.0\MyApp.Business.pdb
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\bin\Debug\net6.0\MyApp.Data.dll
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\bin\Debug\net6.0\MyApp.Data.pdb
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\obj\Debug\net6.0\MyApp.Business.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\obj\Debug\net6.0\MyApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\obj\Debug\net6.0\MyApp.Business.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\obj\Debug\net6.0\MyApp.Business.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\obj\Debug\net6.0\MyApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\obj\Debug\net6.0\MyApp.Business.csproj.CopyComplete
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\obj\Debug\net6.0\MyApp.Business.dll
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\obj\Debug\net6.0\ref\MyApp.Business.dll
+C:\Users\Acer\source\repos\MyApp\MyApp.Business\obj\Debug\net6.0\MyApp.Business.pdb

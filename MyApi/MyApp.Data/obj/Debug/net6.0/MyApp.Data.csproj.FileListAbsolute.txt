@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\bin\Debug\net6.0\MyApp.Data.deps.json
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\bin\Debug\net6.0\MyApp.Data.dll
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\bin\Debug\net6.0\ref\MyApp.Data.dll
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\bin\Debug\net6.0\MyApp.Data.pdb
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\obj\Debug\net6.0\MyApp.Data.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\obj\Debug\net6.0\MyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\obj\Debug\net6.0\MyApp.Data.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\obj\Debug\net6.0\MyApp.Data.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\obj\Debug\net6.0\MyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\obj\Debug\net6.0\MyApp.Data.dll
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\obj\Debug\net6.0\ref\MyApp.Data.dll
+C:\Users\Acer\source\repos\MyApp\MyApp.Data\obj\Debug\net6.0\MyApp.Data.pdb
